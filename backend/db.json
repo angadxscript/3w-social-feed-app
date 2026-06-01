@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1780305146097",
+      "username": "angadxscript",
+      "email": "angad@test.com",
+      "password": "$2b$10$ULY/wDoI.YbFw9iK6rMACe4mFlQcPxcNQektA0RrbOwcOFkSkkJh6"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1780305179860",
+      "userId": "1780305146097",
+      "username": "angadxscript",
+      "text": " Hello from 3W Social Feed",
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "likes": [
+        {
+          "userId": "1780305146097",
+          "username": "angadxscript"
+        }
+      ],
+      "comments": [],
+      "createdAt": 1780305179860
+    }
+  ]
+}
